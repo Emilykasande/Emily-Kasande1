@@ -1,6 +1,6 @@
 # Emily-Kasande1
- Hello World, I'm Emily!
- I'm a full-stack software engineer building and maintaining web and mobile applications end-to-end — from React/React Native frontends to NestJS/Prisma backends.
+ Hello World, I'm Emily.
+ I'm a full-stack software engineer building and maintaining web and mobile applications end-to-end, from React/React Native frontends to NestJS/Prisma backends.
 
  Currently working on:
 Charis Hearts Home Care Services— a multi-page Next.js/TypeScript/Tailwind site with a custom emerald green & blue design system
